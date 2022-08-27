@@ -1,0 +1,15 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-inventorymanagement-prod-134558-authRole",
+      "UnauthRoleArn": "arn:aws:iam::526720131803:role/amplify-inventorymanagement-prod-134558-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::526720131803:role/amplify-inventorymanagement-prod-134558-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-inventorymanagement-prod-134558-deployment",
+      "UnauthRoleName": "amplify-inventorymanagement-prod-134558-unauthRole",
+      "StackName": "amplify-inventorymanagement-prod-134558",
+      "StackId": "arn:aws:cloudformation:us-east-1:526720131803:stack/amplify-inventorymanagement-prod-134558/7e5754b0-2638-11ed-88cd-0e6ca049a619",
+      "AmplifyAppId": "d349d3swrkjccf"
+    }
+  }
+}
